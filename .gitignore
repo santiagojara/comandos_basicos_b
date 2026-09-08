@@ -4,3 +4,7 @@
 *.log
 *.bak
 indicaciones.info
+/node_modules
+/dist
+/build
+Thumbs.db
